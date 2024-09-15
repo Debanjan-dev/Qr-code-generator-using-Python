@@ -1,7 +1,11 @@
 ###To use this
 
-1. **Download this repository** using [Git Clone](https://github.com/Debanjan-dev/Qr-code-generator-using-Python.git) or download the ZIP file from the repository page.
-2. **Extract the files** to a directory of your choice.
+1. **Download this repository** using
+  ```git clone https://github.com/Debanjan-dev/Qr-code-generator-using-Python.git``` .
+#or
+3.  Download the ZIP file from the repository page.
+  **Extract the files** to a directory of your choice.
+
 3.**Run**
    ```
    pip freeze requirments.txt
