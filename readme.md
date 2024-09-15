@@ -1,32 +1,16 @@
-# Repository Name
+###To use this
 
-================
-
-## Getting Started
-
-### To use this in other PCs
-
-1. **Download this repository** using [Git Clone](https://git-scm.com/docs/git-clone) or download the ZIP file from the repository page.
+1. **Download this repository** using [Git Clone](https://github.com/Debanjan-dev/Qr-code-generator-using-Python.git) or download the ZIP file from the repository page.
 2. **Extract the files** to a directory of your choice.
-3. **Follow the installation instructions** provided in the [INSTALLATION.md](INSTALLATION.md) file (if available).
-4. **Configure the settings** as needed (if applicable).
+3.**Run**
+   ```
+   pip freeze requirments.txt
+   ```
 
-## Usage
-
--  [Insert usage instructions or examples here]
-
-## Contributing
-
--  [Insert contributing guidelines here]
-
-## License
-
--  [Insert license information here]
+4.**Now just run the python file ``` main.py```
 
 ## Authors
 
--  [Insert author names and contact information here]
+-  Debanjan Dutta
 
-## Acknowledgments
 
--  [Insert acknowledgments or credits here]
